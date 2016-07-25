@@ -170,7 +170,7 @@ Why does that matter? What exactly *is* a prototype, and why is it important?
 
 ### Prototypes
 
-Every object in JavaScript has a `prototype`. This `prototype`
+Every object in JleavaScript has a `prototype`. This `prototype`
 is essentially the "parent" object that the object was created from, and
 it provides any number of methods and properties to that object.
 
